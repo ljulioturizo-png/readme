@@ -54,8 +54,10 @@ https://wilin34.github.io/wijitech2.0/
 
 ## Capturas de pantalla
 
-Se pueden agregar capturas de pantalla del sitio web para mostrar su
-diseño y las diferentes secciones disponibles.
+A continuación se presentan imágenes relacionadas con los servicios
+técnicos ofrecidos por WIJITECH.
+
+![Servicio técnico de WIJITECH](imagen%20tecnico.png)
 
 ## Información del sitio
 
