@@ -52,7 +52,7 @@ También se puede acceder al sitio web publicado mediante GitHub Pages:
 
 https://wilin34.github.io/wijitech2.0/
 
-## Capturas de pantalla
+## Imágenes
 
 A continuación se presentan imágenes relacionadas con los servicios
 técnicos ofrecidos por WIJITECH.
