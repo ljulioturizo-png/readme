@@ -37,7 +37,7 @@ Desde la página principal se puede consultar la información de los
 servicios y cursos y utilizar el botón de WhatsApp para comunicarse
 con WIJITECH.
 
-## Instalación
+## Instalación o como ingresar a la pagina
 
 Este proyecto puede ejecutarse desde un navegador web.
 
